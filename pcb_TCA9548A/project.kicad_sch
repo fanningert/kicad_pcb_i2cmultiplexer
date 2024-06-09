@@ -4,6 +4,12 @@
 	(generator_version "8.0")
 	(uuid "7e72c431-6e21-4045-b5d6-5b8e8920d61f")
 	(paper "A4")
+	(title_block
+		(title "Breakout Board: I²C Multiplexer based on TCA9548A")
+		(date "2024-06-09")
+		(rev "1")
+		(company "Thomas Fanninger")
+	)
 	(lib_symbols
 		(symbol "Connector_Generic:Conn_01x01"
 			(pin_names
